@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # 新北市人口數爬取
 
 from time import sleep
